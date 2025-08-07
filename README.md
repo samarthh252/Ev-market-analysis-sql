@@ -5,7 +5,7 @@ Real-world SQL analysis project on electric cars
 This project analyzes real-world electric vehicle (EV) data to extract insights that can help consumers and manufacturers make data-driven decisions.
 
 ## 📌 Dataset
-Table: `electriccardata_clean
+Table:  electriccardata_clean
 Source: Kaggle Dataset
 
 ### Columns:
